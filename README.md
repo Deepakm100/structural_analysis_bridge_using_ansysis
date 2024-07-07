@@ -41,7 +41,7 @@ To replicate or further develop this project:
 5. Analyze results and compare with initial findings.
 
 ## Contributors
-- [Deepak Kuntal](link to your profile or contact information)
+- [Deepak Kuntal](myself)
 
 ## License
 This project is licensed under the MIT License.
