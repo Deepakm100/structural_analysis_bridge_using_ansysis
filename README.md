@@ -16,8 +16,7 @@ This project involves the structural analysis and simulation of bridge structure
 5. **Results Interpretation:** Analyzed simulation results to assess structural performance and identify areas for improvement.
 
 ## Screenshots
-C:\Users\user\Desktop\bridge_analysis\structural_analysis_bridge_using_ansysis\screenshots\Screenshot (338).png
-![Screenshot 1](screenshots/Screenshot (338).png)
+`![Screenshot 1](screenshots/Screenshot (338).png)`
 *Mesh Generation*
 
 ![Screenshot 2](screenshots/Screenshot (339).png)
