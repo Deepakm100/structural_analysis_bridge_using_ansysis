@@ -46,9 +46,6 @@ To replicate or further develop this project:
 ## License
 This project is licensed under the MIT License.
 
-## Acknowledgments
-- Mention any sources of inspiration, guidance, or support.
-
 ---
 
 Feel free to contact me at [kuntaldeepak068@gmail.com](mailto:kuntaldeepak068@gmail.com) for any inquiries or collaborations related to this project.
